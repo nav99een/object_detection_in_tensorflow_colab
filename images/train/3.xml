@@ -1,62 +1,62 @@
 <annotation>
 	<folder>images</folder>
-	<filename>1.jpg</filename>
-	<path>/home/naveen/Downloads/object_detection_in_tensorflow_colab-master/data/images/1.jpg</path>
+	<filename>3.jpg</filename>
+	<path>/home/naveen/Downloads/object_detection_demo-master/data/images/3.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>800</width>
-		<height>600</height>
+		<width>600</width>
+		<height>500</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>follow</name>
+		<name>following</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>576</xmin>
-			<ymin>87</ymin>
-			<xmax>716</xmax>
-			<ymax>154</ymax>
+			<xmin>433</xmin>
+			<ymin>70</ymin>
+			<xmax>537</xmax>
+			<ymax>123</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>follow</name>
+		<name>following</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>575</xmin>
-			<ymin>202</ymin>
-			<xmax>714</xmax>
-			<ymax>264</ymax>
+			<xmin>434</xmin>
+			<ymin>172</ymin>
+			<xmax>537</xmax>
+			<ymax>220</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>follow</name>
+		<name>following</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>578</xmin>
-			<ymin>314</ymin>
-			<xmax>716</xmax>
-			<ymax>376</ymax>
+			<xmin>432</xmin>
+			<ymin>263</ymin>
+			<xmax>537</xmax>
+			<ymax>313</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>follow</name>
+		<name>following</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>577</xmin>
-			<ymin>427</ymin>
-			<xmax>715</xmax>
-			<ymax>490</ymax>
+			<xmin>431</xmin>
+			<ymin>354</ymin>
+			<xmax>537</xmax>
+			<ymax>408</ymax>
 		</bndbox>
 	</object>
 </annotation>

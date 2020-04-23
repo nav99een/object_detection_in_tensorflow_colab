@@ -1,122 +1,122 @@
 <annotation>
 	<folder>images</folder>
-	<filename>0.jpg</filename>
-	<path>/home/naveen/Downloads/object_detection_in_tensorflow_colab-master/data/images/0.jpg</path>
+	<filename>6.jpg</filename>
+	<path>/home/naveen/Downloads/object_detection_demo-master/data/images/6.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>800</width>
-		<height>600</height>
+		<width>600</width>
+		<height>500</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>follow</name>
+		<name>following</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>635</xmin>
-			<ymin>66</ymin>
-			<xmax>786</xmax>
-			<ymax>105</ymax>
+			<xmin>371</xmin>
+			<ymin>45</ymin>
+			<xmax>534</xmax>
+			<ymax>87</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>follow</name>
+		<name>following</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>633</xmin>
-			<ymin>128</ymin>
-			<xmax>788</xmax>
-			<ymax>166</ymax>
+			<xmin>372</xmin>
+			<ymin>97</ymin>
+			<xmax>534</xmax>
+			<ymax>133</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>follow</name>
+		<name>following</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>634</xmin>
-			<ymin>186</ymin>
-			<xmax>786</xmax>
-			<ymax>226</ymax>
+			<xmin>373</xmin>
+			<ymin>148</ymin>
+			<xmax>534</xmax>
+			<ymax>185</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>follow</name>
+		<name>following</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>634</xmin>
-			<ymin>251</ymin>
-			<xmax>793</xmax>
-			<ymax>285</ymax>
+			<xmin>373</xmin>
+			<ymin>197</ymin>
+			<xmax>535</xmax>
+			<ymax>233</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>follow</name>
+		<name>following</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>635</xmin>
-			<ymin>309</ymin>
-			<xmax>785</xmax>
-			<ymax>345</ymax>
+			<xmin>375</xmin>
+			<ymin>249</ymin>
+			<xmax>534</xmax>
+			<ymax>281</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>follow</name>
+		<name>following</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>635</xmin>
-			<ymin>372</ymin>
-			<xmax>786</xmax>
-			<ymax>407</ymax>
+			<xmin>372</xmin>
+			<ymin>296</ymin>
+			<xmax>534</xmax>
+			<ymax>335</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>follow</name>
+		<name>following</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>632</xmin>
-			<ymin>429</ymin>
-			<xmax>787</xmax>
-			<ymax>466</ymax>
+			<xmin>372</xmin>
+			<ymin>347</ymin>
+			<xmax>536</xmax>
+			<ymax>384</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>follow</name>
+		<name>following</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>632</xmin>
-			<ymin>494</ymin>
-			<xmax>787</xmax>
-			<ymax>530</ymax>
+			<xmin>372</xmin>
+			<ymin>396</ymin>
+			<xmax>540</xmax>
+			<ymax>437</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>follow</name>
+		<name>following</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>632</xmin>
-			<ymin>558</ymin>
-			<xmax>785</xmax>
-			<ymax>590</ymax>
+			<xmin>374</xmin>
+			<ymin>449</ymin>
+			<xmax>537</xmax>
+			<ymax>483</ymax>
 		</bndbox>
 	</object>
 </annotation>
